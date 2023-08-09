@@ -23,7 +23,7 @@ title: Matt Nichols # the main title
 tagline: RF EE Grad Student # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A personal website for the Electrical Engineering Grad Student, Matt Nichols.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: https://nicholsmatt.github.io/
@@ -41,8 +41,8 @@ social:
   email: mattnicholsmail+website@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://twitter.com/natt_michols # change to your twitter homepage
+    - https://github.com/NicholsMatt # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/matt-nichols-401244112/
