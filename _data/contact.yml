@@ -34,3 +34,11 @@
 - type: resume
   icon: 'fa-solid fa-scroll'
   url: https://www.dropbox.com/s/aaglzzrn5rzj44k/Matthew%20Nichols%20Resume%20AU22%20Website.pdf?dl=0
+
+- type: orcid
+  icon: 'fa-brands fa-orcid'
+  url: https://orcid.org/0009-0008-5292-0745
+
+- type: portfolio
+  icon: 'fa-solid fa-download'
+  url: ''
